@@ -1,3 +1,3 @@
 # ChongLab-Pitt/force-fields
 
-A repository containing all force fields files developed by the Chong Lab at University of Pittsburgh.
+A repository containing files for Amber force fields developed by the Chong Lab at University of Pittsburgh.
