@@ -3,7 +3,7 @@
 To use these files for your fluorinated protein, first make sure that the atom names follow AMBER ff15ipq formatting conventions. Then, for the fluorinated variant, update the residue-id to the respective 3-letter-code and fluorine atom naming scheme shown below.
 
 <p align="center">
-   <img src="../docs/19F_ipq_structures_atom_types.png" alt="19F_atom_types" width="500">
+   <img src="19F_ipq_structures_atom_types.png" alt="19F_atom_types" width="500">
 </p>
 
 Using your now AMBER formatted coorindate file (e.g. PDB) you can run a variation of the following tleap input:
